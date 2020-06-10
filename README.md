@@ -1,2 +1,4 @@
 # bd_coursework
-курсач по бд geekbrains(python-разработка)
+курсовая работа по бд geekbrains(python-разработка)
+
+База данных должна представлять аналог сайта самиздата author today(https://author.today)
